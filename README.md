@@ -60,7 +60,7 @@ This software, including all code, documentation, and associated files, is the s
 
 ## Certificates & Registrations
 
-For additional ceritification visit - https://github.com/PrintOnDemand-Official/License/tree/main/Certificates%20%26%20Registrations
+For additional certification visit [Certificates & Registrations](https://github.com/PrintOnDemand-Official/License/tree/main/Certificates%20%26%20Registrations)
 
 ---
 
