@@ -1,6 +1,7 @@
 title: PrintOnDemand License
 description: License, Trademark info, and changelog
 theme: just-the-docs
+search_enabled: false
 # logo: "your_logo_path"
 # favicon_ico: "your_icon_path"
 
@@ -8,3 +9,15 @@ url: https://github.com/PrintOnDemand-Official/License
 
 aux_links:
   Repository: https://github.com/PrintOnDemand-Official/License
+
+# Enable Just the Docs' navigation structure
+just_the_docs:
+  collections:
+    docs:
+      output: true
+  nav:
+    - title: "Overview"
+      url: "/overview/"
+      children:
+        - title: "Intellectual Property"
+          url: "/intellectual_property/"
