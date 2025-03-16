@@ -1,5 +1,5 @@
 ---
-title: SubPage
+title: Intellectual Property
 layout: default
 nav_order: 2
 parent: Overview
