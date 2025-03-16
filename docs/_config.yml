@@ -17,7 +17,7 @@ just_the_docs:
       output: true
   nav:
     - title: "Overview"
-      url: "/overview/"
+      url: "/docs/overview/"
       children:
         - title: "Intellectual Property"
-          url: "/intellectual_property/"
+          url: "/docs/intellectual_property/"
