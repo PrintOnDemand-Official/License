@@ -10,14 +10,14 @@ url: https://github.com/PrintOnDemand-Official/License
 aux_links:
   Repository: https://github.com/PrintOnDemand-Official/License
 
-# Enable Just the Docs' navigation structure
-just_the_docs:
-  collections:
-    docs:
-      output: true
-  nav:
-    - title: "Overview"
-      url: "/docs/overview/"
-      children:
-        - title: "Intellectual Property"
-          url: "/docs/intellectual_property/"
+# # Enable Just the Docs' navigation structure
+# just_the_docs:
+#   collections:
+#     docs:
+#       output: true
+#   nav:
+#     - title: "Overview"
+#       url: "/docs/overview/"
+#       children:
+#         - title: "Intellectual Property"
+#           url: "/docs/intellectual_property/"
