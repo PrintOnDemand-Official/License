@@ -8,16 +8,7 @@ search_enabled: false
 url: https://github.com/PrintOnDemand-Official/License
 
 aux_links:
-  Repository: https://github.com/PrintOnDemand-Official/License
+  "PintOnDemand on GitHub":
+    - "//github.com/PrintOnDemand-Official"
 
-# # Enable Just the Docs' navigation structure
-# just_the_docs:
-#   collections:
-#     docs:
-#       output: true
-#   nav:
-#     - title: "Overview"
-#       url: "/docs/overview/"
-#       children:
-#         - title: "Intellectual Property"
-#           url: "/docs/intellectual_property/"
+color_scheme: dark
