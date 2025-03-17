@@ -7,7 +7,7 @@ parent: Certificates & Registrations
 
 # PDF Document
 
-<iframe src="{{ site.baseurl }}/assets/EUIPO.pdf" width="100%" height="600px">
+<iframe src="/assets/EUIPO.pdf" width="100%" height="600px">
 </iframe>
 
 
