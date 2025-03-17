@@ -7,5 +7,5 @@ parent: Certificates & Registrations
 
 # PDF Document
 
-<object data="../assets/EUIPO.pdf" width="100%" height="600px" type="application/pdf">
+<object data="/assets/EUIPO.pdf" width="100%" height="600px" type="application/pdf">
 </object>
