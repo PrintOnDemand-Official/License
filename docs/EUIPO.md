@@ -1,5 +1,5 @@
 ---
-title: European Union Intellectual Property Office
+title: European Union Intellectual Property Office Registration
 layout: default
 nav_order: 6
 parent: Certificates & Registrations
@@ -7,5 +7,5 @@ parent: Certificates & Registrations
 
 # PDF Document
 
-<object data="/EUIPO.pdf" width="100%" height="600px" type="application/pdf">
+<object data="../assets/EUIPO.pdf" width="100%" height="600px" type="application/pdf">
 </object>
