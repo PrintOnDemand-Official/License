@@ -5,6 +5,8 @@ search_enabled: false
 # logo: "your_logo_path"
 # favicon_ico: "your_icon_path"
 
+footer_content: ""
+
 url: https://github.com/PrintOnDemand-Official/License
 
 aux_links:
