@@ -12,6 +12,3 @@ aux_links:
     - "//github.com/PrintOnDemand-Official"
 
 color_scheme: dark
-
-include:
-  - assets
